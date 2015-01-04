@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".MainActivity">
+
+    <item android:id="@+id/action_add_fav"
+          android:title=""
+          android:icon="@drawable/ic_fav"
+          android:orderInCategory="100"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/action_settings"
+          android:title=""
+          android:icon="@drawable/ic_settings"
+          android:orderInCategory="200"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/action_close"
+          android:title=""
+          android:icon="@drawable/ic_close"
+          android:orderInCategory="300"
+          app:showAsAction="always"/>
+</menu>

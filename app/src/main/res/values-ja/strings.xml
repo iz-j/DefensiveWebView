@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">設定</string>
+    <string name="cancel">キャンセル</string>
+    <string name="confirm">確認</string>
+    <string name="confirm_delete_importants">パスワードを変更すると、全ての重要なブックマークが削除されます。よろしいですか？</string>
+    <string name="delete">削除</string>
+    <string name="drawer_close">Drawerを閉じる</string>
+    <string name="drawer_open">Drawerを開く</string>
+    <string name="enter_name">名前を入力してください</string>
+    <string name="error">エラー</string>
+    <string name="important">重要</string>
+    <string name="name">名前</string>
+    <string name="name_required">名前には１文字以上設定してください。</string>
+    <string name="ok">OK</string>
+    <string name="page_error">ページ読込に失敗しました。</string>
+    <string name="password">パスワード</string>
+    <string name="password_for_important">重要ブックマークのパスワード</string>
+    <string name="password_require_4">パスワードには４文字設定してください。</string>
+    <string name="password_wrong">パスワードが違います。</string>
+    <string name="required_password">先にパスワードを設定してください。</string>
+    <string name="set_home">このページをホームに設定しました。</string>
+    <string name="update">更新</string>
+</resources>
