@@ -405,7 +405,7 @@ public class MainActivity extends ActionBarActivity {
                 return false;
             }
 
-            if(dx > 100) {
+            if(dx > 2500) {
                 if(velocityX > 0) {
                     mDrawerLayout.openDrawer(mDrawerList);
                 } else {
